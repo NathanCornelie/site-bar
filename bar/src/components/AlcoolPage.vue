@@ -81,8 +81,9 @@ export default {
 }
 .boissons_container{
   width: 80%;
-  margin:auto;
+  margin:0px auto 0px;
   padding: 15px;
+  height: 100%;
   
   
 }

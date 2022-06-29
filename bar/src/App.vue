@@ -17,7 +17,7 @@ export default {
     return {
       cat : true,
       }
-  },
+  }, 
   components: {
     
   },
@@ -36,6 +36,7 @@ export default {
 }
 body{
   background-color:rgba(66, 203, 82, 0.636);
+  margin: 0px;
 }
 
 </style>

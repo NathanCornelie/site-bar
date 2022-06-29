@@ -36,7 +36,7 @@ export default {
   margin-top: 30px;
   margin-bottom: 30px;
   margin-right: 30px;
-  margin-left: 30px;
+  /* margin-left: 30px; */
   background-color: rgba(232, 80, 80, 0.725);
 }
 .b_container h4 {
@@ -45,8 +45,11 @@ export default {
 .b_desc {
   display: flex;
   background-color: #fff;
+  border-radius: 20px;
   height: 100px;
+  padding: 10px;
   margin-top: 120px;
+  margin-bottom: 10px;
   width: 90%;
   margin-left:auto;
   margin-right: auto;
